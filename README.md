@@ -91,7 +91,7 @@
 브라우저에서 `http://localhost:8501` 주소로 접속하여 데모를 사용할 수 있습니다.
 
 ## 📂 프로젝트 구조
-쉬운-법률-해석기/
+쉬운-법률-해석기/ <br>
 ├── 📄 app.py              # Streamlit 메인 애플리케이션 <br>
 ├── 🤖 llm_service.py      # Langchain 및 Ollama 연동 (AI 해석 생성) <br>
 ├── 📚 legal_dict.py       # 법률 용어 API 연동 (용어 정의 추출) <br>
