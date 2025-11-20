@@ -1,7 +1,7 @@
-    streamlit
-    langchain
-    langchain-community
-    langchain-huggingface
-    huggingface_hub
-    requests
-    python-dotenv
+streamlit
+python-dotenv
+requests
+konlpy
+JPype1
+aiohttp
+google-genai

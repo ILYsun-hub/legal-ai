@@ -20,7 +20,6 @@
 ## 🛠️ 사용된 기술 스택
 
 * **Frontend:** Streamlit
-* **LLM Orchestration:** Langchain
 * **LLM (Local):** Ollama (`gemma2:9b`)
 * **Monitoring:** Langsmith Community Cloud
 * **API (External):** 대한민국 법제처 법률 용어 API
