@@ -26,7 +26,3 @@ app.add_middleware(
 app.include_router(legal_router, prefix="/api", tags=["legal"])
 app.include_router(file_router)
 
-
-@app.get("/health")
-def health_check():
-    return {"status": "ok"}
